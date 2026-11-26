@@ -1,0 +1,6 @@
+{
+  "name": "한강 XR 사이클링 핏 코치",
+  "description": "한강 라이딩 중 스마트 글라스로 속도, 예상 심박수, 발목 통증 원인을 분석하고 자전거 최적 상태를 안내하는 XR 코칭 경험",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
